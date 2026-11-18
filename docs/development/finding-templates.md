@@ -100,7 +100,7 @@ Currently served for all version from bedrock:
 - Firstrun URL: <https://www.mozilla.org/en-US/firefox/144.0a2/firstrun/>
 - Template path: <https://github.com/mozilla/bedrock/blob/main/bedrock/firefox/templates/firefox/developer/firstrun.html>
 
-### Firefox Beta, for explicitly triggered rollouts
+### Firefox Beta, custom templates when not using evergreen one
 
 Version number is digits+dots and **beta**.
 
